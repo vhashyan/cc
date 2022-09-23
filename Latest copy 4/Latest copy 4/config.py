@@ -1,0 +1,7 @@
+customhost = "employee1.cwxhqawvre8g.us-east-1.rds.amazonaws.com"
+customuser = "aws_user"
+custompass = "Bait3273"
+customdb = "employee1"
+custombucket = "thanaash-employee"
+custombucket1 ="thanaash-leaveform"
+customregion = "us-east-1"
